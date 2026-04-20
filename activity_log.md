@@ -6,3 +6,4 @@
 - [2026-04-20T22:39:11Z] refactor: simplify conditional logic
 - [2026-04-20T09:34:20Z] chore: remove deprecated API calls
 - [2026-04-20T08:29:13Z] test: add unit tests for core module
+- [2026-04-20T13:23:24Z] perf: optimize loop for better performance
